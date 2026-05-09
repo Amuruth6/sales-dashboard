@@ -5,7 +5,7 @@ orders from Olist, Brazil's largest e-commerce platform. Built with
 SQL, Python, and Streamlit.
 
 ## 🔗 Live Demo
-[Click here to view the dashboard](YOUR_STREAMLIT_LINK)
+[Click here to view the dashboard](https://sales-dashboard-3wwlvkgftdymozqck9sug7.streamlit.app/)
 
 ## 📌 Problem Statement
 E-commerce businesses generate massive amounts of order data but 
